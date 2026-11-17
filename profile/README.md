@@ -1,6 +1,6 @@
 # Hi there 👋
 
-We are a team of data scientists providing analyses that support BakerRipley’s strategic goals in service to our Neighbors in the Houston region. We value rigorous, transparent, open-source, and Neighbor-centered work.
+We are a team of data scientists, researchers, and evaluators that support BakerRipley’s strategic goals in service to our Neighbors in the Houston region. We value rigorous, transparent, open-source, and Neighbor-centered work.
 
 ## Mission
 
