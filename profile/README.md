@@ -1,8 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-We are the Data Strategy team at BakerRipley.
+We are a team of data scientists providing analyses that support BakerRipley’s strategic goals in service to our Neighbors in the Houston region. We value rigorous, transparent, open-source, and Neighbor-centered work.
 
-Come back soon - we are actively developing our GitHub.
+## Mission
+
+To provide rigorous, accessible data analyses and research that strengthens BakerRipley’s strategic decisions and improve outcomes for Neighbors in the Houston region.
+
+## Vision
+
+A community where every strategic decision — from program design to
+resource allocation — is informed by trustworthy, timely, and equitable
+evidence.
+
+## Values
+
+| Value | What it means in practice |
+|----|----|
+| **Neighbor-centered** | Analyses ultimately serve Neighbors, not dashboards. We ask “how does this improve life in the Houston region?” |
+| **Rigor** | Methods are sound, documented, parsimonious, and appropriate to the question. We state uncertainty honestly. |
+| **Transparency** | Code, data sources, and decisions are documented and shareable (within privacy constraints). |
+| **Reproducibility** | Any analysis can be re-run by a teammate and yield the same result using open-source tools. |
+| **Equity** | We interrogate data for bias and ensure our methods do not obscure marginalized communities. |
+| **Collaboration** | We work with program staff as partners, not order-takers. |
+
 <!--
 
 **Here are some ideas to get you started:**
