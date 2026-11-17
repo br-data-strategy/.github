@@ -2,6 +2,10 @@
 
 We are a team of data scientists, researchers, and evaluators that support BakerRipley’s strategic goals in service to our Neighbors in the Houston region. We value rigorous, transparent, open-source, and Neighbor-centered work.
 
+For over a century, [BakerRipley](https://bakerripley.org) has stood alongside our Neighbors and communities. Today, we empower Neighbors to move from surviving to thriving by achieving upward socioeconomic mobility. We connect them with education, employment, and resources to build a stronger region. 
+
+# Data Strategy Team
+
 ## Mission
 
 To provide rigorous, accessible data analyses and research that strengthens BakerRipley’s strategic decisions and improve outcomes for Neighbors in the Houston region.
