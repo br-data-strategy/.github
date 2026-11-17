@@ -27,6 +27,13 @@ evidence.
 | **Equity** | We interrogate data for bias and ensure our methods do not obscure marginalized communities. |
 | **Collaboration** | We work with program staff as partners, not order-takers. |
 
+## Members
+
+[Broderick Grimes](https://github.com/broderick-grimes), Data Analyst I
+[Charlotte Hirsch](https://github.com/chirsch14), Data Analyst III
+[Erika Lyles](https://github.com/eclyles), Data Analyst II
+[Jorge Martinez](https://github.com/martinez-jorge), Director
+
 <!--
 
 **Here are some ideas to get you started:**
