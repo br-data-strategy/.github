@@ -1,3 +1,5 @@
+<img align="right" src="https://jxmartinez.com/img/br-logo-orig.png" alt="BakerRipley logo" width="15%">
+
 # Hi there 👋
 
 We are a team of data scientists, researchers, and evaluators that support BakerRipley’s strategic goals in service to our Neighbors in the Houston region. We value rigorous, transparent, open-source, and Neighbor-centered work.
